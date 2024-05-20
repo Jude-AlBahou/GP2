@@ -1,0 +1,410 @@
+ID,Gender,Age,BMD,T Score,Diagnosis,DM,HTN,Vit D,Calcium,Menopause
+330546,F,57,0.733,2.2,Penia,Unavailable,Unavailable,12.8,,Yes
+930163,F,59,0.873,1.2,Penia,No,No,43.6,9.3,Yes
+678003,F,69,0.705,2.4,Penia,No,Yes,,9.0,Yes
+64708,F,45,0.927,0.8,Normal,No,No,19.4,9.3,No
+854422,F,57,0.849,1.4,Penia,No,No,47.3,9.86,Yes
+814850,M,73,0.706,2.4,Penia,Yes,Yes,40.0,9.0,Not Applicable
+624994,F,69,0.748,2.1,Penia,No,No,30.4,9.4,Yes
+199442,F,56,0.898,1.0,Normal,No,No,53.6,9.92,Yes
+771725,F,67,0.757,2.0,Penia,No,Yes,26.5,9.7,Yes
+553327,F,44,1.025,0.1,Normal,No,No,49.7,9.6,Unknown
+723653,F,52,0.732,2.02,Porosis,No,No,39.3,9.33,Yes
+809930,F,70,0.77,1.9,Penia,No,Yes,64.1,9.65,Yes
+744664,F,63,0.839,1.4,Penia,No,No,,,Yes
+417890,M,81,0.793,1.8,Penia,Yes,Yes,24.2,9.5,Not Applicable
+315952,F,59,0.959,0.6,Penia,No,Yes,32.6,10.3,Yes
+963416,F,59,0.8333,1.5,Penia,No,No,,,Yes
+137129,F,62,0.692,2.5,Porosis,No,Yes,52.7,10.24,Yes
+958198,F,80,0.786,1.8,Penia,Yes,Yes,45.4,10.4,Yes
+755534,M,44,0.787,1.8,Penia,No,No,33.65,8.7,Not Applicable
+63251,F,77,0.699,-2.4,Penia,Unavailable,Yes,36.1,9.48,Yes
+236648,F,59,0.954,0.4,Normal,Yes,Unavailable,32.2,9.15,Yes
+699992,F,64,1.013,0.0,Penia,Yes,Unavailable,56.0,9.2,Yes
+456614,F,83,0.772,1.9,Porosis,Unavailable,Yes,27.4,9.6,Yes
+267697,F,59,0.88,1.0,Penia,Unavailable,Unavailable,42.3,10.32,Yes
+891838,F,67,0.769,1.9,Penia,Unavailable,Yes,29.7,9.9,Yes
+926840,F,63,0.832,1.4,Penia,Unavailable,Yes,37.4,10.22,Yes
+594356,F,69,0.89,0.9,Penia,Yes,Yes,12.3,9.13,Yes
+35930,F,62,1.165,1.2,Normal,Unavailable,Yes,34.3,10.0,Yes
+504568,F,61,0.72,-2.3,Penia,Unavailable,Unavailable,42.2,9.4,Yes
+75528,F,57,0.938,-0.6,Penia,Unavailable,Unavailable,8.5,9.11,Yes
+775735,F,86,0.56,-3.6,Porosis,Yes,Yes,56.3,9.82,Yes
+725771,F,60,1.006,0.0,Normal,Yes,Yes,43.7,10.34,Yes
+489027,F,73,0.777,-1.8,Porosis,Yes,Yes,30.1,9.8,Yes
+911038,F,63,0.652,-2.8,Porosis,Yes,Unavailable,60.6,10.04,Yes
+1067895,F,59,0.907,-0.8,Porosis,Yes,Yes,17.2,10.04,Yes
+100211,M,71,0.731,2.2,Porosis,Unavailable,Unavailable,9.3,9.27,Not Applicable
+1189794,F,59,0.76,-2.0,Penia,Yes,Yes,,9.6,Yes
+1167744,F,58,0.693,-2.5,Porosis,Unavailable,Unavailable,54.0,9.56,Yes
+602026,F,60,1.001,-0.1,Normal,Pre,Unavailable,26.6,9.66,Yes
+778213,F,46,1.071,0.5,Normal,Unavailable,Unavailable,74.0,9.28,Unknown
+217622,F,56,0.893,-0.9,Normal,Pre,Unavailable,9.7,9.5,Yes
+579228,F,63,0.865,-1.1,Penia,Unavailable,Unavailable,71.0,9.4,Yes
+1111630,F,56,0.964,-0.3,Penia,Yes,Yes,24.0,9.3,Yes
+1108209,F,66,0.906,-0.8,Penia,Unavailable,Yes,57.0,9.6,Yes
+1208406,F,43,0.928,-0.6,Penia,Unavailable,Unavailable,,9.4,Unknown
+934774,F,57,1.193,1.5,Normal,Yes,Yes,33.1,9.8,Yes
+5312,F,75,0.697,-2.5,Porosis,No,Yes,70.3,9.48,Yes
+552052,F,53,0.882,-1.0,Porosis,Yes,No,50.7,10.51,Yes
+254180,F,71,1.007,0.0,Penia,No,No,16.7,9.23,Yes
+171273,F,57,0.933,-0.6,Penia,Yes,Yes,51.4,9.54,Yes
+655433,F,67,0.87,-1.1,Penia,Yes,Yes,22.9,9.7,Yes
+226371,F,59,0.976,-0.3,Penia,No,No,73.0,8.8,Yes
+78263,F,80,0.876,-1.0,Penia,Pre,No,45.2,9.65,Yes
+868467,F,60,0.881,-1.0,Penia,Pre,Yes,47.1,10.01,Yes
+671715,M,72,1.137,1.0,Penia,Yes,Yes,57.2,9.3,Not Applicable
+602431,F,70,0.779,-1.8,Penia,Yes,Yes,51.0,9.2,Yes
+43452,F,73,0.706,-2.4,Porosis,Pre,Yes,52.4,9.8,Yes
+183850,F,75,0.902,-0.8,Penia,Yes,Yes,65.9,10.28,Yes
+709755,F,74,0.948,-0.5,Penia,Yes,Yes,61.0,10.3,Yes
+891242,F,73,0.969,-0.3,Penia,Yes,Yes,48.2,8.81,Yes
+409497,F,56,1.078,0.6,Penia,No,No,24.0,9.74,Yes
+517880,F,58,0.74,-2.1,Porosis,No,No,56.7,9.2,Yes
+244915,F,57,0.881,-1.0,Penia,Yes,Yes,47.4,9.41,Yes
+784184,F,63,0.72,-2.3,Porosis,No,No,41.2,10.56,Yes
+1231015,F,54,0.767,-1.9,Porosis,Yes,Yes,5.8,10.3,Yes
+990689,F,72,0.695,-2.5,Porosis,No,Yes,44.9,8.8,Yes
+881420,F,63,0.643,-2.9,Porosis,Yes,Yes,26.7,9.14,Yes
+72998,F,70,0.679,-2.6,Porosis,No,No,35.7,8.6,Yes
+537827,F,72,0.898,-0.9,Porosis,Yes,Yes,20.8,9.1,Yes
+728897,F,86,0.853,-1.2,Penia,Yes,Yes,57.5,9.0,Yes
+588346,F,62,0.714,-2.3,Porosis,No,No,40.9,9.6,Yes
+35784,F,47,0.944,-0.5,Normal,No,No,34.5,9.88,Unknown
+1151366,F,73,0.83,-1.4,Porosis,No,No,60.8,10.42,Yes
+234636,F,58,0.718,-2.3,Porosis,No,No,40.9,9.2,Yes
+389335,F,56,0.685,-2.6,Porosis,No,No,55.4,9.72,Yes
+620949,F,71,0.857,-1.2,Porosis,No,Yes,12.0,9.82,Yes
+637784,F,76,0.716,-2.3,Porosis,Yes,Yes,50.7,9.3,Yes
+416565,F,73,0.768,-1.9,Porosis,No,No,41.0,9.53,Yes
+283043,F,64,1.022,0.1,Penia,No,No,27.6,9.69,Yes
+748320,F,71,0.893,0.9,Penia,No,Yes,60.6,10.36,Yes
+513512,F,74,0.982,-0.2,Penia,No,Yes,8.9,9.91,Yes
+979713,F,77,0.792,-1.7,Porosis,Yes,No,11.7,9.3,Yes
+43011,F,49,0.949,-0.5,Penia,No,No,52.2,10.12,Unknown
+511962,F,60,0.529,-3.8,Porosis,No,No,79.1,9.8,Yes
+394446,F,69,1.025,0.1,Porosis,No,Yes,27.1,9.9,Yes
+58631,F,78,0.852,-1.2,Porosis,Pre,Yes,28.8,9.9,Yes
+836326,F,62,0.909,-0.8,Porosis,No,No,43.4,9.97,Yes
+1229686,F,72,0.858,-1.2,Penia,Yes,Yes,30.8,10.94,Yes
+481817,F,45,0.995,-0.1,Penia,No,No,51.4,9.98,Unknown
+255606,F,62,0.968,0.3,Penia,Yes,Yes,15.8,9.1,Yes
+1020246,F,56,1.158,1.2,Penia,Yes,No,75.5,9.24,Yes
+689220,F,63,0.919,-0.7,Penia,Yes,Yes,43.9,9.8,Yes
+103553,F,62,0.792,-1.7,Penia,Yes,Yes,48.6,10.4,Yes
+844377,F,60,0.835,-1.4,Porosis,No,No,39.8,9.89,Yes
+123734,F,47,0.597,-3.3,Porosis,No,No,57.7,10.56,Unknown
+1007618,F,81,0.75,-2.0,Porosis,Yes,Yes,59.9,9.6,Yes
+126382,F,67,0.809,-1.6,Penia,No,No,24.7,10.2,Yes
+726550,F,77,0.701,-2.4,Porosis,No,Yes,61.1,9.97,Yes
+761476,F,79,0.98,-0.2,Porosis,Yes,Yes,36.9,9.4,Yes
+416565,F,74,0.775,-1.8,Porosis,No,No,40.7,10.25,Yes
+881756,F,51,1.227,1.7,Normal,Yes,No,43.7,9.7,Unknown
+931205,F,55,0.886,-1.0,Porosis,No,No,18.4,10.03,Yes
+543428,F,50,0.909,-0.8,Normal,No,No,22.5,9.8,Unknown
+271017,M,81,0.746,-2.1,Penia,No,Yes,36.5,9.93,Not Applicable
+531541,F,67,0.839,-1.3,Porosis,No,Yes,37.5,10.1,Yes
+1182431,F,43,1.014,0.1,Normal,Pre,No,33.1,10.16,Unknown
+410285,F,56,0.881,-1.0,Penia,No,No,39.0,9.72,Yes
+83596,F,75,0.773,-1.9,Penia,Pre,No,50.6,10.17,Yes
+1207670,F,47,0.763,-1.9,Penia,No,No,52.8,9.9,Unknown
+669820,F,60,1.055,0.4,Penia,Yes,Yes,40.6,10.2,Yes
+31095,F,64,0.656,-2.8,Porosis,No,No,64.3,8.79,Yes
+401740,F,48,0.922,-0.7,Penia,No,No,27.0,10.2,Unknown
+513849,F,60,0.802,-1.6,Penia,No,Yes,48.2,10.9,Yes
+1211272,F,53,0.914,-0.7,Penia,No,Yes,37.9,11.0,Yes
+1205451,M,50,0.771,-1.9,Penia,No,No,8.1,10.2,Not Applicable
+607727,F,51,0.964,-0.3,Penia,No,No,40.6,9.1,Unknown
+1204270,F,60,0.775,-1.8,Porosis,No,No,55.7,9.9,Yes
+465717,F,65,0.958,-0.4,Penia,Yes,Yes,29.0,9.21,Yes
+495654,M,77,1.033,0.2,Penia,Yes,Yes,23.6,9.38,Not Applicable
+572194,F,47,1.028,0.2,Normal,No,No,24.5,9.8,No
+1154923,F,42,1.183,1.4,Normal,No,No,32.3,10.98,Unknown
+1255275,F,60,1.026,0.1,Porosis,No,Yes,25.1,9.7,Yes
+163678,F,83,0.743,-2.1,Penia,No,Yes,50.4,9.65,Yes
+397773,F,48,1.133,1.0,Normal,No,No,15.2,10.22,Unknown
+594906,F,51,1.082,0.6,Normal,No,No,10.2,8.8,Unknown
+787643,F,78,0.839,-1.3,Porosis,Yes,Yes,16.3,9.05,Yes
+312146,F,73,0.83,-1.4,Porosis,Yes,Yes,42.8,9.5,Yes
+651847,F,71,0.786,-1.8,Porosis,No,Yes,45.6,9.37,Yes
+124084,F,62,0.877,1.0,Porosis,No,No,33.0,9.89,Yes
+73173,F,75,0.879,-1.0,Penia,Yes,Yes,13.2,9.81,Yes
+614000,F,62,0.756,-2.0,Porosis,Yes,Yes,45.3,8.6,Yes
+207705,F,63,0.847,-1.3,Penia,No,No,40.3,9.94,Yes
+1259896,F,59,0.934,-0.6,Porosis,Yes,No,5.3,10.75,Yes
+1142686,F,62,0.725,-2.2,Porosis,No,Yes,21.1,9.65,Yes
+121906,F,59,0.778,-1.8,Porosis,No,Yes,23.4,10.1,Yes
+692483,F,46,0.786,-1.8,Penia,No,No,22.3,10.25,Unknown
+860553,F,76,0.744,-2.1,Penia,Yes,Yes,36.0,10.79,Yes
+271277,F,54,0.876,-1.0,Penia,Yes,No,41.3,9.1,Yes
+1108490,F,70,0.898,-0.9,Penia,Yes,Yes,25.5,9.73,Yes
+1078015,F,61,0.746,-2.1,Porosis,Yes,No,57.7,9.4,Yes
+675260,F,59,0.987,-0.2,Porosis,No,No,28.5,9.0,Yes
+1205029,F,58,0.853,-1.2,Penia,No,No,14.4,9.3,Yes
+1262327,F,45,1.03,0.2,Penia,No,Yes,18.4,9.7,Unknown
+1040943,F,59,0.953,-0.4,Porosis,Yes,Yes,30.2,9.6,Yes
+1024619,F,75,0.684,-2.6,Porosis,Yes,Yes,20.3,9.2,Yes
+819009,F,64,0.863,-1.1,Porosis,No,Yes,64.1,10.6,Yes
+244340,F,68,0.843,-1.3,Penia,No,Yes,56.1,9.66,Yes
+1243549,F,62,0.992,-0.1,Penia,Yes,Yes,6.1,10.0,Yes
+199932,F,81,0.742,-2.1,Penia,No,Yes,41.8,10.3,Yes
+689266,F,64,0.866,-1.1,Penia,Yes,Yes,50.5,10.2,Yes
+443769,F,64,0.925,-0.7,Porosis,No,No,41.3,9.14,Yes
+1183230,F,52,0.873,-1.1,Porosis,Yes,Yes,42.7,10.3,Yes
+801968,F,41,1.201,1.5,Normal,No,No,18.6,10.93,Unknown
+436692,F,62,1.149,1.1,Normal,Yes,Yes,42.3,9.98,Yes
+296163,F,56,0.94,-0.5,Penia,No,Yes,44.9,9.0,Yes
+314153,M,62,0.929,-0.6,Penia,Yes,Yes,38.7,10.2,Not Applicable
+587339,M,78,0.98,-1.7,Penia,Yes,Yes,40.9,10.31,Not Applicable
+952224,F,59,1.063,0.4,Penia,No,Yes,32.6,9.9,Yes
+652442,M,70,1.044,0.3,Penia,No,Yes,53.5,10.2,Not Applicable
+267551,F,58,0.861,-1.2,Penia,No,Yes,39.4,10.9,Yes
+320609,F,73,0.89,-0.9,Normal,No,Yes,58.9,9.59,Yes
+193008,F,62,0.641,-2.9,Porosis,No,No,48.0,9.8,Yes
+1037529,F,63,0.631,-3.0,Porosis,Yes,Yes,14.9,10.0,Yes
+402650,F,52,0.802,-1.6,Penia,No,No,33.7,9.4,No
+10836,F,60,0.831,-1.4,Penia,Yes,Yes,39.4,10.0,Yes
+744336,F,75,0.9,-1.6,Penia,No,Yes,31.6,10.0,Yes
+994455,M,54,0.833,-1.4,Penia,No,No,44.9,9.48,Not Applicable
+109297,F,83,0.933,-0.6,Normal,Yes,Yes,31.6,9.36,Yes
+453993,F,82,0.659,-2.8,Porosis,No,No,43.2,9.54,Yes
+947897,F,75,0.703,-2.4,Penia,No,Yes,36.9,9.4,Yes
+554988,M,54,0.762,-1.9,Penia,Yes,Yes,,,Not Applicable
+453748,F,58,0.829,-1.4,Penia,Yes,Yes,73.7,9.8,Yes
+215229,F,67,0.987,-0.2,Normal,Yes,Yes,39.3,9.08,Yes
+239676,M,71,0.775,-1.8,Penia,Yes,Yes,,8.92,Not Applicable
+476148,F,60,0.694,-2.5,Porosis,No,No,19.0,9.1,Yes
+1093341,F,72,0.681,-2.6,Porosis,Yes,No,53.9,9.4,Yes
+266457,F,59,0.841,-1.3,Penia,No,No,33.3,9.5,Yes
+1014235,F,74,0.644,-2.9,Porosis,Yes,No,56.4,9.53,Yes
+102794,F,62,0.75,-2.0,Penia,No,Yes,29.0,,Yes
+896782,F,73,0.743,-2.1,Penia,Yes,No,60.5,9.62,Yes
+378306,F,60,0.867,-1.1,Penia,No,Yes,21.9,8.88,Yes
+203027,M,40,1.123,0.9,Normal,No,No,13.4,9.9,Not Applicable
+765510,F,75,0.948,-0.5,Normal,No,Yes,,9.56,Yes
+1024693,F,61,0.76,-2.0,Penia,No,No,48.5,9.8,Yes
+324079,F,55,0.918,-0.7,Normal,No,No,,9.2,Yes
+266457,F,61,0.82,-1.5,Penia,No,Yes,32.0,8.97,Yes
+709423,F,64,1.011,0.0,Normal,Yes,Yes,27.6,9.2,Yes
+1132895,F,50,1.048,0.3,Normal,No,No,31.1,9.4,No
+681069,F,59,0.834,-1.4,Penia,No,No,35.4,8.87,Yes
+368002,M,81,0.631,-3.0,Porosis,No,No,48.7,9.0,Not Applicable
+238310,F,60,0.895,-0.9,Normal,No,No,22.7,9.47,Yes
+1011491,M,74,1.05,0.3,Normal,Yes,Yes,28.7,9.45,Not Applicable
+888129,F,58,0.724,-2.3,Penia,No,No,34.4,,Yes
+963233,F,63,0.908,-0.8,Normal,No,No,45.5,8.92,Yes
+1219247,F,65,0.888,-0.9,Normal,Yes,Yes,,9.8,Yes
+157996,F,60,0.961,-0.4,Normal,Yes,No,33.5,10.4,Yes
+1229992,F,65,0.95,-0.5,Normal,Yes,No,28.6,9.5,Yes
+260096,F,59,0.828,-1.4,Penia,Yes,Yes,43.7,9.77,Yes
+962119,F,47,0.902,-0.8,Normal,No,No,51.0,10.3,Yes
+481045,F,83,0.688,-2.5,Porosis,Yes,Yes,,9.1,Yes
+1207670,F,46,0.758,-2.0,Penia,No,No,64.0,9.9,No
+316514,F,55,0.86,-1.2,Penia,Yes,Yes,21.1,8.9,Yes
+897584,F,57,0.998,-0.1,Normal,Yes,Yes,59.3,9.5,Yes
+165861,F,67,0.778,-1.8,Penia,No,Yes,46.1,9.9,Yes
+997626,F,68,0.742,-2.1,Penia,Yes,Yes,51.2,9.9,Yes
+356509,F,63,0.821,-1.5,Penia,Yes,Yes,,,Yes
+359611,M,74,0.836,-1.4,Penia,No,No,29.6,9.0,Not Applicable
+853169,F,69,0.839,-1.3,Penia,No,No,35.4,9.93,Yes
+696379,F,64,0.52,-3.9,Porosis,No,No,21.2,10.7,Yes
+926751,F,76,0.681,-2.6,Porosis,Yes,Yes,39.3,9.8,Yes
+601742,F,79,0.924,-0.7,Normal,Yes,Yes,29.8,10.02,Yes
+211155,F,65,0.881,-1.0,Penia,Yes,Yes,33.3,9.14,Yes
+716439,F,67,0.712,-2.3,Penia,Yes,No,24.7,9.71,Yes
+151453,F,57,0.921,-0.7,Normal,Yes,No,51.9,9.83,Yes
+425895,F,58,0.99,-0.1,Normal,No,No,44.2,9.8,Yes
+1125449,F,48,1.065,0.5,Normal,No,No,,9.34,No
+1229404,F,58,1.082,0.6,Normal,No,Yes,26.6,9.84,Yes
+208896,F,64,0.877,-1.0,Penia,No,No,45.0,9.89,Yes
+15862,F,55,0.808,-1.6,Penia,No,No,,,Yes
+948767,F,63,0.841,-1.3,Penia,Yes,Yes,,9.72,Yes
+23602,M,76,0.771,-1.9,Penia,No,Yes,54.2,9.09,Not Applicable
+1204897,F,73,0.981,-0.2,Normal,Yes,No,,,Yes
+767257,F,78,0.762,-1.9,Penia,Yes,No,53.0,9.87,Yes
+191048,F,54,1.013,0.0,Normal,No,Yes,23.4,9.1,Yes
+275769,F,50,1.01,-1.1,Penia,Yes,Yes,33.0,8.92,Yes
+209978,F,64,0.916,-0.7,Normal,Yes,No,45.1,9.0,Yes
+800331,F,75,0.829,-1.4,Penia,No,Yes,11.0,9.2,Yes
+784657,F,80,0.679,-2.6,Porosis,No,No,,,Yes
+781605,F,67,0.767,-1.9,Penia,No,No,47.9,9.3,Yes
+81705,F,64,0.747,-2.1,Penia,Yes,No,55.5,9.3,Yes
+1229594,F,64,0.905,-0.8,Normal,No,No,,,Yes
+240920,F,66,1.034,0.2,Normal,Yes,Yes,32.5,9.48,Yes
+1153343,M,50,1.163,1.2,Normal,No,Yes,35.1,9.4,Not Applicable
+791593,M,55,0.763,-1.9,Penia,No,No,12.0,10.07,Not Applicable
+253322,F,56,1.004,0.0,Normal,No,Yes,48.3,9.87,Yes
+307049,F,62,1.072,0.5,Normal,No,No,23.1,10.4,Yes
+673689,F,52,0.727,-2.2,Penia,No,No,,10.2,Yes
+863878,F,78,0.71,-2.4,Penia,Yes,Yes,53.5,8.2,Yes
+429078,F,51,1.15,1.1,Normal,No,Yes,46.6,9.68,Yes
+883413,F,54,1.005,0.0,Normal,Yes,No,37.5,10.3,Yes
+1025557,F,56,0.864,-1.1,Penia,No,Yes,,9.6,Yes
+902534,F,79,0.693,-2.5,Porosis,Yes,Yes,51.8,10.02,Yes
+102794,F,59,0.75,-2.0,Penia,No,Yes,29.0,9.1,Yes
+896782,F,73,0.743,-2.1,Penia,Yes,No,60.5,9.62,Yes
+378306,F,62,0.867,-1.1,Penia,No,Yes,21.9,8.88,Yes
+374514,M,73,0.89,-0.9,Normal,No,Yes,,,Not Applicable
+631560,F,63,0.782,-1.8,Penia,Yes,No,25.6,9.9,Yes
+1128202,F,57,1.094,0.7,Normal,No,No,45.1,9.07,Yes
+571205,F,57,1.008,0.0,Normal,Yes,No,45.6,8.86,Yes
+939645,F,74,0.731,-2.2,Penia,Yes,Yes,30.1,9.22,Yes
+186338,M,55,0.919,-0.7,Normal,No,Yes,26.8,9.01,Not Applicable
+766366,F,64,0.78,-1.8,Penia,No,No,34.4,8.97,Yes
+127435,F,60,0.921,-0.7,Normal,No,No,45.6,10.08,Yes
+568274,F,63,0.926,-0.6,Normal,Yes,Yes,14.9,8.7,Yes
+1227194,M,68,0.887,-1.0,Penia,No,No,24.5,9.4,Not Applicable
+714447,F,64,1.222,1.7,Normal,Yes,Yes,31.2,8.93,Yes
+7377923,F,83,0.779,-1.8,Penia,No,Yes,49.5,9.18,Yes
+863277,M,51,0.747,-2.1,Penia,No,No,41.7,9.97,Not Applicable
+1004112,F,63,0.704,-2.4,Penia,No,Yes,69.0,9.8,Yes
+447465,F,76,0.84,-1.3,Penia,No,Yes,6.5,9.7,Yes
+943298,F,64,0.878,-1.0,Penia,Yes,No,54.3,9.03,Yes
+93542,M,67,0.499,-4.0,Porosis,No,No,36.5,9.56,Not Applicable
+699069,F,61,0.86,-1.2,Penia,Yes,No,16.2,9.39,Yes
+123458,M,61,0.732,-2.5,Porosis,Yes,Yes,31.5,9.2,Not Applicable
+602199,F,65,0.771,-1.9,Penia,No,No,46.6,9.48,Yes
+1173571,F,80,0.786,-1.7,Penia,Yes,Yes,64.9,9.8,Yes
+197915,F,65,0.886,-1.0,Penia,No,Yes,57.5,9.66,Yes
+939645,F,74,0.731,-2.2,Penia,Yes,Yes,30.1,9.22,Yes
+952876,F,59,0.802,-1.6,Penia,No,No,54.3,8.93,Yes
+1165083,M,56,0.834,-1.4,Penia,No,Yes,8.6,10.4,Not Applicable
+74791,F,63,0.857,-1.2,Penia,Yes,Yes,52.9,9.39,Yes
+298485,F,56,0.849,-1.3,Penia,No,No,39.7,9.52,Yes
+1244204,F,53,1.112,0.8,Normal,Yes,No,23.3,10.4,Yes
+809849,F,69,0.842,-1.3,Penia,Yes,Yes,32.1,9.89,Yes
+732772,F,66,0.97,-0.3,Normal,Yes,No,38.3,9.5,Yes
+1107656,F,52,1.205,1.6,Normal,No,Yes,16.8,9.14,Yes
+681482,F,64,0.748,-2.1,Penia,No,No,49.3,9.87,Yes
+788332,M,77,0.604,-3.2,Porosis,No,Yes,32.8,10.3,Not Applicable
+747589,M,70,1.132,1.0,Normal,Yes,Yes,25.1,8.97,Not Applicable
+1161611,F,59,0.835,-1.4,Penia,No,No,29.4,9.9,Yes
+918805,F,52,0.802,-1.6,Penia,No,No,29.9,9.36,Yes
+1027151,M,51,0.868,-1.1,Penia,No,No,49.9,9.5,Not Applicable
+815009,F,77,0.842,-1.3,Penia,No,Yes,36.6,9.96,Yes
+495096,M,65,0.846,-1.3,Penia,No,Yes,33.6,9.3,Not Applicable
+99766,F,66,0.742,-2.1,Penia,Yes,Yes,51.2,9.15,Yes
+284233,F,54,1.032,1.8,Normal,Yes,No,38.1,9.6,No
+183607,F,60,0.787,-1.0,Porosis,Pre,Yes,38.0,9.59,Yes
+467512,F,75,0.77,-1.6,Penia,No,No,44.8,9.6,Yes
+624806,F,69,0.864,0.1,Penia,Yes,Yes,49.2,9.51,Yes
+838362,F,67,0.604,-2.5,Porosis,Yes,Yes,43.5,9.57,Yes
+522111,F,68,0.607,-2.2,Porosis,No,Yes,40.5,8.44,Yes
+782034,F,67,0.739,-2.4,Porosis,No,Yes,40.3,10.0,Yes
+802177,F,56,0.973,0.0,Normal,No,Yes,13.9,9.27,Yes
+495811,M,57,0.861,0.2,Penia,Yes,Yes,50.2,9.8,Not Applicable
+605580,F,73,0.817,-1.8,Penia,Yes,No,74.7,9.5,Yes
+78727,F,62,0.63,-2.9,Porosis,No,No,30.7,10.1,Yes
+697703,F,67,0.724,-1.8,Penia,Yes,Yes,46.0,9.5,Yes
+778722,F,47,1.227,1.5,Normal,No,No,31.1,9.16,Unknown
+250622,F,62,0.664,-2.1,Porosis,No,No,34.0,9.77,Yes
+306642,F,56,0.992,-0.4,Normal,No,Yes,17.3,9.6,Yes
+654052,F,69,0.887,-1.0,Penia,Yes,Yes,55.8,10.03,Yes
+480035,F,48,0.865,-0.4,Penia,No,No,40.9,9.3,Unknown
+209740,F,68,0.757,-2.1,Penia,Pre,Yes,52.9,10.0,Yes
+1142686,F,60,0.692,-2.5,Porosis,No,Yes,24.8,10.1,Yes
+481631,F,48,1.149,1.1,Normal,Yes,Yes,34.1,9.8,Unknown
+1078852,F,60,0.806,-1.6,Penia,Yes,Yes,49.2,9.92,Yes
+1047534,F,66,0.827,-1.4,Penia,No,Yes,28.8,9.9,Yes
+312680,F,53,0.912,-0.8,Penia,Yes,Yes,48.2,9.2,Yes
+773711,F,65,0.82,-1.5,Penia,No,Yes,20.1,9.6,Yes
+483931,F,77,0.929,-0.6,Penia,Yes,Yes,38.2,9.86,Yes
+662481,F,43,0.888,-0.9,Normal,No,No,37.6,10.22,Unknown
+332792,F,84,0.82,-1.5,Penia,No,No,48.8,9.2,Yes
+851478,F,79,0.613,-3.1,Porosis,Yes,Yes,63.9,8.83,Yes
+863277,M,51,0.747,-2.1,Porosis,No,No,41.7,9.97,Not Applicable
+48786,F,89,0.557,-3.6,Porosis,No,Yes,50.9,10.15,Yes
+1038764,F,48,0.928,-0.6,Penia,No,No,45.3,9.6,Unknown
+332893,F,68,0.981,-0.2,Porosis,No,Yes,38.7,10.1,Yes
+572789,F,59,0.896,-0.9,Porosis,Yes,Yes,52.6,10.0,Yes
+473032,F,61,0.793,-1.7,Porosis,No,No,50.1,9.78,Yes
+623030,F,57,1.033,0.2,Normal,No,Yes,30.3,9.3,Yes
+32906,F,73,0.874,-1.1,Penia,Yes,Yes,31.4,9.3,Yes
+600547,F,61,0.719,-2.3,Porosis,No,Yes,38.3,10.18,Yes
+77827,F,69,0.996,-0.1,Porosis,Pre,Yes,63.7,10.1,Yes
+1037238,F,69,0.702,-2.4,Penia,No,No,44.5,9.9,Yes
+150674,F,60,0.856,-1.2,Porosis,No,No,55.7,9.93,Yes
+713433,F,89,0.597,-3.3,Porosis,Yes,Yes,20.2,8.5,Yes
+410991,F,76,0.704,-2.4,Porosis,No,No,43.7,9.26,Yes
+596933,F,68,0.978,-0.2,Penia,No,Yes,30.0,9.0,Yes
+674848,F,47,0.841,-1.3,Penia,Pre,No,56.6,9.2,Unknown
+286780,M,64,0.726,-2.2,Penia,Yes,Yes,67.9,9.67,Not Applicable
+483238,F,45,0.8,-1.6,Penia,No,No,20.9,8.73,Unknown
+811300,F,56,0.976,-0.2,Penia,No,No,41.4,10.54,Yes
+119648,F,69,1.009,0.0,Penia,Yes,Yes,38.8,10.95,Yes
+824074,F,57,0.736,-2.2,Porosis,No,No,32.4,9.41,Yes
+651470,F,50,0.823,-1.5,Porosis,No,Yes,48.0,10.2,Unknown
+26908,F,81,0.712,-2.3,Porosis,No,Yes,25.0,8.6,Yes
+390749,F,56,0.968,-0.3,Penia,No,No,4.9,9.2,Yes
+663487,F,62,0.575,-3.4,Porosis,Yes,Yes,34.9,10.3,Yes
+302840,F,60,0.91,-0.8,Porosis,Yes,Yes,31.8,9.4,Yes
+1192929,F,71,0.782,-1.8,Porosis,Yes,Yes,19.4,10.11,Yes
+496840,F,63,1.113,0.8,Penia,Yes,No,42.6,9.6,Yes
+673362,F,44,0.881,-1.0,Penia,No,Yes,10.1,9.28,Unknown
+659853,F,41,0.958,-0.4,Normal,No,Yes,10.1,9.28,Unknown
+62220,F,75,0.84,-1.3,Porosis,No,Yes,56.1,9.85,Yes
+1092569,M,73,0.964,-0.3,Penia,No,Yes,56.6,10.06,Not Applicable
+657781,F,72,1.067,0.5,Penia,Yes,Yes,33.9,9.6,Yes
+390582,F,76,0.945,-0.5,Penia,Yes,No,42.1,9.5,Yes
+899040,F,71,0.991,-0.1,Normal,Yes,Yes,40.3,8.8,Yes
+531096,F,72,0.772,-1.9,Porosis,No,Yes,6.0,9.71,Yes
+588346,F,61,0.727,-2.2,Porosis,No,No,40.9,9.9,Yes
+22219,F,72,0.938,-0.6,Penia,Yes,Yes,49.0,8.8,Yes
+316008,F,70,0.963,-0.4,Penia,No,Yes,35.3,9.7,Yes
+197460,F,58,0.831,-1.4,Porosis,No,Yes,27.7,9.99,Yes
+698409,F,71,0.851,-1.2,Porosis,No,Yes,35.6,10.27,Yes
+765689,F,56,1.06,0.4,Penia,No,Yes,53.2,9.96,Yes
+159527,F,60,0.656,-2.8,Porosis,No,No,45.2,8.7,Yes
+753106,F,70,0.864,-1.1,Penia,No,Yes,18.6,10.2,Yes
+432211,F,46,1.054,0.4,Normal,No,No,28.0,10.0,Unknown
+899208,F,48,1.053,0.4,Normal,No,No,38.5,9.7,Unknown
+794218,F,45,0.864,-1.1,Penia,No,No,28.0,10.0,Unknown
+709620,F,57,0.956,-0.4,Porosis,Yes,Yes,27.0,9.92,Yes
+681689,F,65,0.9,-0.9,Normal,Yes,Yes,24.1,10.0,Yes
+1135699,F,53,0.906,-0.8,Penia,No,No,38.5,9.8,Yes
+637784,F,75,0.706,-2.4,Penia,Yes,Yes,26.1,9.5,Yes
+1096684,F,62,0.931,-0.6,Penia,Yes,No,47.4,9.7,Yes
+549142,F,68,0.653,-2.8,Porosis,Yes,Yes,80.7,9.33,Yes
+954176,F,61,0.868,-1.1,Penia,No,No,44.2,9.0,Yes
+78440,F,64,0.714,-2.3,Porosis,No,Yes,38.5,9.3,Yes
+553444,F,52,0.834,-1.4,Penia,No,No,28.6,10.1,Yes
+181167,F,57,0.961,-0.4,Porosis,No,No,73.0,9.5,Yes
+952876,F,57,0.788,-1.7,Porosis,No,No,13.6,9.76,Yes
+735735,F,52,0.833,-1.4,Penia,No,No,39.2,9.8,Yes
+901442,F,47,1.002,0.0,Normal,No,No,32.4,8.6,Unknown
+279449,F,53,0.93,-0.6,Penia,Yes,Yes,30.2,9.5,Yes
+782773,F,63,0.906,-0.8,Penia,Yes,Yes,50.2,9.54,Yes
+577207,F,64,0.818,-1.5,Penia,Pre,Yes,29.3,10.51,Yes
+499489,F,60,0.822,-1.5,Penia,No,Yes,33.2,9.3,Yes
+105247,F,74,0.941,-0.5,Penia,No,No,34.0,10.0,Yes
+803112,F,69,0.803,-1.6,Penia,No,No,26.9,8.9,Yes
+984204,F,47,0.95,-0.5,Porosis,No,No,33.7,11.02,Unknown
+37963,F,66,0.759,-2.0,Penia,No,No,65.1,9.75,Yes
+416320,F,59,0.925,-0.7,Penia,No,Yes,19.8,9.75,Yes
+284751,F,60,0.895,-0.9,Penia,No,No,28.4,9.1,Yes
+461966,F,63,0.709,-2.4,Porosis,No,No,33.6,9.2,Yes
+493471,F,75,0.994,-0.1,Penia,No,Yes,49.5,9.8,Yes
+865215,F,54,0.908,-0.8,Penia,Yes,Yes,44.1,9.5,Yes
+569209,F,57,1.064,0.4,Porosis,Yes,No,24.8,10.2,Yes
+103553,F,61,0.817,-1.5,Penia,Yes,Yes,48.6,10.4,Yes
+1214610,F,68,0.817,-1.5,Porosis,No,No,26.2,10.69,Yes
+717975,M,75,0.623,-3.1,Porosis,Yes,Yes,11.8,9.2,Not Applicable
+502288,F,66,0.982,-0.2,Penia,No,No,75.6,9.5,Yes
+945225,M,80,0.826,-1.4,Porosis,Yes,Yes,12.3,8.4,Not Applicable
+375661,F,60,0.746,-2.1,Porosis,No,Yes,32.4,8.2,Yes
+450507,F,57,0.899,-0.9,Penia,No,No,26.4,9.6,Yes
+249425,F,71,0.88,-1.0,Penia,No,Yes,16.4,10.0,Yes
+1051242,F,63,1.057,0.4,Normal,No,No,32.2,10.09,Yes
+394651,F,54,1.038,0.2,Penia,Yes,Yes,14.1,10.4,Yes
+717975,M,75,0.623,-3.1,Porosis,Yes,Yes,11.8,8.82,Not Applicable
+610547,F,61,0.781,-1.8,Penia,No,No,33.2,9.34,Yes
+749850,F,79,0.775,-1.9,Porosis,Yes,Yes,44.6,8.83,Yes
+240748,F,70,0.946,-0.5,Porosis,Yes,Yes,30.4,10.1,Yes
+590304,F,57,0.696,-2.5,Porosis,Yes,Yes,37.3,10.44,Yes
+36938,F,81,0.791,-1.7,Penia,Pre,Yes,55.6,9.48,Yes
+112754,F,62,0.941,-0.5,Porosis,Pre,No,40.2,10.17,Yes
+1071560,F,62,1.092,0.7,Penia,Yes,Yes,22.1,8.75,Yes
+848225,F,69,0.929,-0.6,Porosis,No,No,68.4,9.72,Yes
+452875,F,59,0.896,-0.9,Penia,No,Yes,10.5,9.5,Yes
+209286,F,53,1.048,0.3,Normal,No,No,37.7,9.91,Yes
+844478,M,55,0.87,-1.1,Porosis,No,No,39.8,9.1,Not Applicable
